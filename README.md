@@ -1,5 +1,6 @@
 # Privacy-in-Location-Based-Services
-Survey on location and query privacy protection strategies
+
+**Survey on location and query privacy protection strategies**
 
 With the growth of hand-held gadgets like mobile phones, tablets and
 smart phones, Location-Based Services have gained immense popularity. In order
